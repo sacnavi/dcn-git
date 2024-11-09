@@ -1,1 +1,2 @@
-Este proyecto aun no tiene descripcion
+# dcn-git
+Repositorio para repaso de git en DCN
